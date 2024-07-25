@@ -6,11 +6,16 @@ function App() {
     <div className="App">
       <div className="container">
         <div class="Weather">
-          <a href="https://www.shecodes.io/" target="_blank">
+          <a
+            href="https://www.shecodes.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               src="https://www.shecodes.io/assets/branding/logo-shecodes-3dfa60aeab8ef361842da5a2b6d46db3af1b7afafefee3dde0a9846389de754b.png"
               width="180px"
               height="50px"
+              alt="sheCodes logo"
             />
           </a>
         </div>
@@ -142,15 +147,27 @@ function App() {
 
       <footer>
         Coded by
-        <a href="https://github.com/kea-nelly " target="_blank">
+        <a
+          href="https://github.com/kea-nelly "
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           kealeboga Nelly Serapane
         </a>
         open-sourced on
-        <a href="https://github.com/kea-nelly/week-4-homework" target="_blank">
+        <a
+          href="https://github.com/kea-nelly/week-4-homework"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Github
         </a>
         website hosted on
-        <a href="https://shecodeplus-finalproject.netlify.app" target="_blank">
+        <a
+          href="https://shecodeplus-finalproject.netlify.app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Netlify
         </a>
       </footer>

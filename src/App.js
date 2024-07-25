@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import ReactAnimatedWeather from "react-animated-weather";
 
@@ -147,7 +146,7 @@ function App() {
           kealeboga Nelly Serapane
         </a>
         open-sourced on
-        <a href="https://github.com/kea-nelly/final-project" target="_blank">
+        <a href="https://github.com/kea-nelly/week-4-homework" target="_blank">
           Github
         </a>
         website hosted on

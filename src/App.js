@@ -164,7 +164,7 @@ function App() {
         </a>
         website hosted on
         <a
-          href="https://shecodeplus-finalproject.netlify.app"
+          href="https://taupe-puppy-92bce8.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
